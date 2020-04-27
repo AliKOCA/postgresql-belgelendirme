@@ -1,0 +1,1 @@
+## PostgreSQL Türkçe belgelendirme çalışmasıdır.
